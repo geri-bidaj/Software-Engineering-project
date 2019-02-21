@@ -1,2 +1,2 @@
 # Software-Engineering-project
-This project is about management of a restaurant.
+This project is a management application for a restaurant.
